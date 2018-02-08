@@ -1,0 +1,5 @@
+*.pyc
+*-server/venv/
+*-schema/out/
+*.tix
+__pycache__/

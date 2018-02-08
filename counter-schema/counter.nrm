@@ -1,0 +1,4 @@
+service counter (
+    @http-resource(method = "POST", path = "/count/{delta}/")
+    bigint increment (bigint delta)
+);
