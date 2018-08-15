@@ -15,4 +15,4 @@ Note that there are `NIRUM` and `PYVENV` variables and overridable through
 
 Distributed under public domain.
 
-[1]: https://github.com/spoqa/nirum/blob/master/docs/tutorial.md
+[1]: https://nirum.org/docs/tutorial.html
